@@ -18,7 +18,7 @@ To do this follow these instructions.
 4. Tap Install unknown apps. 
 5. Select the unknown app then tap the Allow from this source switch. to turn on or off .
 
-Download the APK file and enjoy.
+Download the StarHoard.apk file on your Android mobile phone and enjoy.
 
 
 ## Built With
