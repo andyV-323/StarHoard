@@ -173,7 +173,7 @@ public class starHoard extends Game {
 		if (gameState == 2) {
 			batch.draw(exp, Gdx.graphics.getWidth()/ 2 - ship.getWidth()/ 2, shipY);
 		} else {
-			//man drawn in the screens center by dividing x by 2 from screen and man[0]
+
 			batch.draw(ship, Gdx.graphics.getWidth()/2, shipY);
 
 		}
