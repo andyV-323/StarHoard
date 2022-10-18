@@ -25,7 +25,7 @@ public class starHoard extends Game {
 
 	SpriteBatch batch;
 	Texture ship;
-	Texture dizzy;
+	Texture exp;
 
 	float gravity = 0.03f;
 	float velocity = 0;
@@ -63,7 +63,7 @@ public class starHoard extends Game {
 		shipRectangle = new Rectangle();
 		stars = new Texture("star.png");
 		asteroid = new Texture("asteroid.png");
-		dizzy = new Texture("explosion0.png");
+		exp = new Texture("explosion0.png");
 		random = new Random();
 
 		explosion = Gdx.audio.newSound(Gdx.files.internal("explosion.ogg"));
@@ -171,7 +171,7 @@ public class starHoard extends Game {
 		}
 
 		if (gameState == 2) {
-			batch.draw(dizzy, Gdx.graphics.getWidth()/ 2 - ship.getWidth()/ 2, shipY);
+			batch.draw(exp, Gdx.graphics.getWidth()/ 2 - ship.getWidth()/ 2, shipY);
 		} else {
 			//man drawn in the screens center by dividing x by 2 from screen and man[0]
 			batch.draw(ship, Gdx.graphics.getWidth()/2, shipY);
