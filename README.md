@@ -30,6 +30,10 @@ Download the StarHoard.apk file on your Android mobile phone or scan the QR code
 * [Android Studio](https://developer.android.com/studio) - IDE
 
 
+
+Uploading StarHoard.mp4…
+
+
 ## Authors
 
 * **Andy Valencia** 
