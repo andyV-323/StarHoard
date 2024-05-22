@@ -33,8 +33,7 @@ Download the StarHoard.apk file on your Android mobile phone or scan the QR code
 * [libGDX](https://libgdxinfo.wordpress.com) - framework used
 * [Android Studio](https://developer.android.com/studio) - IDE
 * 
-[![Watch the Video](link-to-custom-thumbnail)](https://youtu.be/JuM1oyPdCQU
-)
+(link-to-custom-thumbnail)](https://youtu.be/JuM1oyPdCQU)
 
 
 ## Authors
