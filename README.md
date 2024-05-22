@@ -1,3 +1,5 @@
+
+https://github.com/andyV-323/StarHoard/assets/40248914/fba01b2f-09fa-4b9a-b8b6-f4dfa3b16677
 # Star Hoard
 
 This is a simple Android mobile game designed and develop in Android Studio using libGDX framework. This game takes a spaceship into space where the user must collect
@@ -26,12 +28,13 @@ Download the StarHoard.apk file on your Android mobile phone or scan the QR code
 
 ## Built With
 
+
+
 * [libGDX](https://libgdxinfo.wordpress.com) - framework used
 * [Android Studio](https://developer.android.com/studio) - IDE
-
-
-
-Uploading StarHoard.mp4…
+* 
+[![Watch the Video](link-to-custom-thumbnail)](https://youtu.be/JuM1oyPdCQU
+)
 
 
 ## Authors
